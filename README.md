@@ -34,7 +34,7 @@ In the Brazilian energy matrix, thermal power dispatch is the primary driver of 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/OtavioMDS3141/ons-thermal-generation-automation
    ```
 2. Install dependencies:
    ```bash
@@ -42,7 +42,7 @@ In the Brazilian energy matrix, thermal power dispatch is the primary driver of 
    ```
 3. Run the pipeline:
    ```bash
-   python src/ons_pipeline.py
+   python src/ons_generation_pipeline.py
    ```
 
 ---
